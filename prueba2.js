@@ -73,7 +73,14 @@ function ejercicio5b_Cerrar() {
 
 
 //Ejercicio 6. Confirmación y entrada de datos
-
+function ejercicio6(){
+    let pregunta = window.confirm("¿Deseas cambiar el color de fondo?");
+    if (pregunta) {
+        // 
+    } else {
+        // 
+    }
+}
 
 
 
